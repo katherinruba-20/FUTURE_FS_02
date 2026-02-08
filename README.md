@@ -14,7 +14,7 @@ This project is Task 2 of my Full Stack Web Development Internship at Future Int
 - JavaScript
 
 ## Live Demo
-(Add your GitHub Pages link here)
+https://katherinruba-20.github.io/FUTURE_FS_02/
 
 ## Author
 KATHERIN RUBA SJ
